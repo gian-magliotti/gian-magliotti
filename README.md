@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Gian Franco
 
-<!--
-**gian-magliotti/gian-magliotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzado de *Ingeniería Informática*
 
-Here are some ideas to get you started:
+## 🔹 Actualmente aprendiendo
+- Ethereum y Smart Contracts
+- Blockchain y DApps
+- Redes de computadoras, sistemas distribuidos y bases de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Intereses
+- Desarrollo de DApps con Ethereum y Solidity
+- Desarrollo full-stack (Frontend y Backend)
+
+## 🎯 Objetivos
+- Desarrollarme profesionalmente en entornos de desarrollo exigentes
+- Crear software de calidad y soluciones escalables
+- Compartir y adquirir conocimientos con la comunidad
+
+## 📫 Contacto
+- Email: gianmagliotti03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gian-franco-magliotti-86764120b/
