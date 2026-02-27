@@ -20,7 +20,7 @@ Currently learning and developing applications with **Spring Boot** and **Node.j
 
 Experience building frontend applications using **React**, **Next.js** and **TypeScript**.
 
-I also create technical content on YouTube explaining Computer Engineering concepts.
+I also create technical content on **YouTube** and **TikTok** explaining Computer Engineering concepts.
 
 ---
 
