@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d6b7e7&height=120&section=header&text=Welcome&fontSize=30&fontColor=ffffff"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDF5E6&height=120&section=header&text=Welcome&fontSize=30&fontColor=FFFFFF"/>
 <h1 align="center">
   I'm Gian Franco 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=d6b7e7&center=true&vCenter=true&width=500&height=50&lines=%3E_Final+Year+Software+Engineering;Backend+focused;Spring+Boot+%7C+Next.js+%7C+Docker;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FDF5E6&center=true&vCenter=true&width=500&height=50&lines=%3E_Final+Year+Software+Engineering;Backend+focused;Spring+Boot+%7C+Next.js+%7C+Docker;" />
 </p>
 
 ---
