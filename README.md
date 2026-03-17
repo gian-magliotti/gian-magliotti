@@ -15,7 +15,7 @@
 
 Final-year Software Engineering student focused on backend development and system design.
 
-Currently learning and developing applications with **Spring Boot** and **Node.js**.
+Currently learning and developing applications with **Spring Boot** and **Nest.js**.
 
 Experience building frontend applications using **React**, **Next.js** and **TypeScript**.
 
@@ -29,7 +29,7 @@ I also create technical content on **YouTube** and **TikTok** explaining Compute
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-BA2004?style=flat-square&logo=nestjs&logoColor=red" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
@@ -52,10 +52,8 @@ I also create technical content on **YouTube** and **TikTok** explaining Compute
 ### 📫 Contact
 
 <p>
-  <a href="https://linkedin.com/in/gian-magliotti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gianmagliotti03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/gian-magliotti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gianmagliotti03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://youtube.com/@wPeekPoke" target="_blank"><img src="https://img.shields.io/badge/YouTube-BA2004?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://tiktok.com/@peek.poke" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 </p>
